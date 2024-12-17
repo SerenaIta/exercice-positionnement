@@ -1,6 +1,8 @@
 .header {
   background: $white;
   width: 100%;
+  position: fixed;
+  top: 0px;
 
   &-content {
     height: 4rem;
